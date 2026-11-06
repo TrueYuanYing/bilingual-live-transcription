@@ -566,6 +566,10 @@
       "sha256": "eae8d94c6057cd88e51fb09ccb08b4b0352cdf1e74a835d3edb39a94cdb3c22a"
     },
     {
+      "target": "VALIDATION.md",
+      "sha256": "0c747c2f9a43dafcce66117622bdebce5e2e25e1df9e9a38dcdd3a671403262a"
+    },
+    {
       "target": "docs/ARCHITECTURE.md",
       "sha256": "a52b5d8fa8683875cb929491c48f68bc0d1f4c589f05b6f9ea3064c8c4b6dc65"
     },
