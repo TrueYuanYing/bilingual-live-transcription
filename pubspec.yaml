@@ -1,0 +1,8 @@
+name: iko_classroom
+description: IKO 课堂听写的可复用文本与 PCM 处理核心
+version: 0.1.0
+publish_to: none
+environment:
+  sdk: '>=3.4.0 <4.0.0'
+dev_dependencies:
+  test: ^1.25.0

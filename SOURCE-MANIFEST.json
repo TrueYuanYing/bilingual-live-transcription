@@ -1,0 +1,581 @@
+{
+  "baseline": "IKO 0.3.11+94",
+  "recordDate": "2026-11-04",
+  "extractedOn": "2026-11-06",
+  "files": [
+    {
+      "source": "source/main/outputs/iko-public-beta/lib/services/asr/asr_engine.dart",
+      "target": "lib/services/asr/asr_engine.dart",
+      "sourceSha256": "aebd1ac0685db08ee72acc1e7405217aec1ae54f0ca4696b5afc4bb2780ba3c6",
+      "publishedSha256": "aebd1ac0685db08ee72acc1e7405217aec1ae54f0ca4696b5afc4bb2780ba3c6",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/lib/services/asr/streaming_hypothesis_tracker.dart",
+      "target": "lib/services/asr/streaming_hypothesis_tracker.dart",
+      "sourceSha256": "78665a4d3e62f736f0ffe56f8056fbaf34b2563dde95b2b96a7935dd286a4a38",
+      "publishedSha256": "78665a4d3e62f736f0ffe56f8056fbaf34b2563dde95b2b96a7935dd286a4a38",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/lib/services/asr/transcript_refiner.dart",
+      "target": "lib/services/asr/transcript_refiner.dart",
+      "sourceSha256": "6ad857a64a35bfeabd5cc8e24acbfbc0489b7a1b7e48d9921085ae3ee765ab57",
+      "publishedSha256": "6ad857a64a35bfeabd5cc8e24acbfbc0489b7a1b7e48d9921085ae3ee765ab57",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/lib/services/asr/mixed_language_text.dart",
+      "target": "lib/services/asr/mixed_language_text.dart",
+      "sourceSha256": "068a433334bc4a262f2411e26298435bdc28b261716c17c4948eeb21a8b4f4bb",
+      "publishedSha256": "068a433334bc4a262f2411e26298435bdc28b261716c17c4948eeb21a8b4f4bb",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/lib/services/asr/mixed_language_terms.dart",
+      "target": "lib/services/asr/mixed_language_terms.dart",
+      "sourceSha256": "381e093f49cc8e606a2f333ab7bb657c67981bc3a04e77da13b645e842dbb7a1",
+      "publishedSha256": "381e093f49cc8e606a2f333ab7bb657c67981bc3a04e77da13b645e842dbb7a1",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/lib/services/asr/dual_pass_result_picker.dart",
+      "target": "lib/services/asr/dual_pass_result_picker.dart",
+      "sourceSha256": "e393f028009237d1a09a4c36fdd0772dfe9cbb4fbc3b48e71cd066b2dbee3da7",
+      "publishedSha256": "e393f028009237d1a09a4c36fdd0772dfe9cbb4fbc3b48e71cd066b2dbee3da7",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/lib/services/asr/speech_language_stabilizer.dart",
+      "target": "lib/services/asr/speech_language_stabilizer.dart",
+      "sourceSha256": "67ec22d97a0766c5709dc3aaa4991c390ae0094ddc8cc6fee860b8b39b68d9f6",
+      "publishedSha256": "67ec22d97a0766c5709dc3aaa4991c390ae0094ddc8cc6fee860b8b39b68d9f6",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/lib/services/asr/live_transcript_window.dart",
+      "target": "lib/services/asr/live_transcript_window.dart",
+      "sourceSha256": "b26ab16cb061f7312cb544fcfaddef613be0b822f68e1d93604b2dede9704b72",
+      "publishedSha256": "b26ab16cb061f7312cb544fcfaddef613be0b822f68e1d93604b2dede9704b72",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/lib/services/asr/session_title_inference.dart",
+      "target": "lib/services/asr/session_title_inference.dart",
+      "sourceSha256": "0c260bfe78c17988f93ec02ecc05ca151e572e67546aaa5dc964235bdc20e3e8",
+      "publishedSha256": "0c260bfe78c17988f93ec02ecc05ca151e572e67546aaa5dc964235bdc20e3e8",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/lib/services/asr/start_capture.dart",
+      "target": "lib/services/asr/start_capture.dart",
+      "sourceSha256": "a3596420bb9410c335858e7ccfea90da30da3965080ebc30fcf91f63b4bba2c4",
+      "publishedSha256": "a3596420bb9410c335858e7ccfea90da30da3965080ebc30fcf91f63b4bba2c4",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/lib/services/audio/speech_signal_enhancer.dart",
+      "target": "lib/services/audio/speech_signal_enhancer.dart",
+      "sourceSha256": "55a7d1205f5b3a5215a29e81e1be25056508091649ef9773c5df399162bfb7d2",
+      "publishedSha256": "55a7d1205f5b3a5215a29e81e1be25056508091649ef9773c5df399162bfb7d2",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/lib/services/audio/stereo_pcm_decimator.dart",
+      "target": "lib/services/audio/stereo_pcm_decimator.dart",
+      "sourceSha256": "3e75f7e534191e1843b7aa27245bdfbfb57637c35a8c67344f94b854a13cb03a",
+      "publishedSha256": "3e75f7e534191e1843b7aa27245bdfbfb57637c35a8c67344f94b854a13cb03a",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/lib/services/alert/question_context.dart",
+      "target": "lib/services/alert/question_context.dart",
+      "sourceSha256": "28c0eccaed09317841b3bbd28e8e4adf476a4cfc187af3fe111cefbacad76c57",
+      "publishedSha256": "28c0eccaed09317841b3bbd28e8e4adf476a4cfc187af3fe111cefbacad76c57",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/lib/services/ai/class_summary.dart",
+      "target": "lib/services/ai/class_summary.dart",
+      "sourceSha256": "81f11e8edee4e5d2a3a2a07bfc0e6b17d72e17cee9b273810934ef8cb6fdf6e0",
+      "publishedSha256": "81f11e8edee4e5d2a3a2a07bfc0e6b17d72e17cee9b273810934ef8cb6fdf6e0",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/lib/data/models/class_session.dart",
+      "target": "lib/data/models/class_session.dart",
+      "sourceSha256": "0bfadd8de5f20a79d62ca5b42c2604ee3d6e3efdf8a28a56de3c908087d935b9",
+      "publishedSha256": "0bfadd8de5f20a79d62ca5b42c2604ee3d6e3efdf8a28a56de3c908087d935b9",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/lib/data/models/keyword_pack.dart",
+      "target": "lib/data/models/keyword_pack.dart",
+      "sourceSha256": "04fe703a2cb5d7fc8ca80adf3cd2ab44047c3e3961582d972067a2715d182920",
+      "publishedSha256": "04fe703a2cb5d7fc8ca80adf3cd2ab44047c3e3961582d972067a2715d182920",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/test/streaming_hypothesis_tracker_test.dart",
+      "target": "test/streaming_hypothesis_tracker_test.dart",
+      "sourceSha256": "2f3abc800c2ef9467b98a1a6130e9bb3f6e0b616b0e7c6dc5df6bcfb85223d0b",
+      "publishedSha256": "1f26e2f403b40d4fd6c571c29b24165a94a2a0b66d60c8da81b502eacd710246",
+      "adapted": true
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/test/dual_pass_result_picker_test.dart",
+      "target": "test/dual_pass_result_picker_test.dart",
+      "sourceSha256": "9ef954c983a52fbabec2be0e20702fc047da849cbf9c741c0af3ea4ac6bd1ae0",
+      "publishedSha256": "00e50634470d2abaaf388b6d043204f5e79a8745e953f57b06aff5c1872c87f2",
+      "adapted": true
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/test/speech_signal_enhancer_test.dart",
+      "target": "test/speech_signal_enhancer_test.dart",
+      "sourceSha256": "91a7817e68ee27cbd3dba99160ba762821072b03da3df71aa558d578e6f4197e",
+      "publishedSha256": "5df0a3be43b3acaf71f2a68bb356a8d25b7356bf21e1fcb580fcf52c775f9da3",
+      "adapted": true
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/test/stereo_pcm_decimator_test.dart",
+      "target": "test/stereo_pcm_decimator_test.dart",
+      "sourceSha256": "8fcfd3fae12ab87df75bfbceb99ec0ca0c0e486a605ce4d15b5a1cab66d2b9d0",
+      "publishedSha256": "8c9b71a32c46d917375a63407798077db8c57004e9acefc59c44ca2b1afcf99e",
+      "adapted": true
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/test/mixed_language_terms_test.dart",
+      "target": "test/mixed_language_terms_test.dart",
+      "sourceSha256": "9a80d0e4e3fd86f0cd6ae84d986752a6dc9ef1e63b33fa037f4445204ebed605",
+      "publishedSha256": "ba0774ab67c1ac0ebc87d5cc210e44cfd138d831effe0bed8e8a790ceb2173c2",
+      "adapted": true
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/test/live_transcript_window_test.dart",
+      "target": "test/live_transcript_window_test.dart",
+      "sourceSha256": "103cefe1055a572e1728755702fe80f5b1e858ae8dee41dc46ee4bbcc14298ab",
+      "publishedSha256": "482d325815dc81742c43f67d9cf2c61d81217988e2f7663a8097b567ebfe0ee6",
+      "adapted": true
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/test/start_capture_test.dart",
+      "target": "test/start_capture_test.dart",
+      "sourceSha256": "ac5ce796d958efbb3b416d95ec111befe29f7b465d5d96d821b13b3685f3e30e",
+      "publishedSha256": "12e9e4957aba20e44ea3deb10bd56a6f1186bfa6d49a7a7419b51e9ffb879779",
+      "adapted": true
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/lib/services/asr/android_system_speech_asr_engine.dart",
+      "target": "reference/flutter/lib/services/asr/android_system_speech_asr_engine.dart",
+      "sourceSha256": "80bfca27f0c410f1e069b8675bca75f0b4aeb0e9095f17fc07b4f1f5aad87459",
+      "publishedSha256": "80bfca27f0c410f1e069b8675bca75f0b4aeb0e9095f17fc07b4f1f5aad87459",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/lib/services/asr/asr_engine.dart",
+      "target": "reference/flutter/lib/services/asr/asr_engine.dart",
+      "sourceSha256": "aebd1ac0685db08ee72acc1e7405217aec1ae54f0ca4696b5afc4bb2780ba3c6",
+      "publishedSha256": "aebd1ac0685db08ee72acc1e7405217aec1ae54f0ca4696b5afc4bb2780ba3c6",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/lib/services/asr/asr_engine_factory.dart",
+      "target": "reference/flutter/lib/services/asr/asr_engine_factory.dart",
+      "sourceSha256": "3eec8d686833bd69d544f55bf10894bd4d62d603557a36b81a23cd116a5b53eb",
+      "publishedSha256": "3eec8d686833bd69d544f55bf10894bd4d62d603557a36b81a23cd116a5b53eb",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/lib/services/asr/bundled_model_sizes.dart",
+      "target": "reference/flutter/lib/services/asr/bundled_model_sizes.dart",
+      "sourceSha256": "d6af5a2f0b5bb2cc9539df0a61185b74000cb5c97c8e20889000fed1202bedc3",
+      "publishedSha256": "d6af5a2f0b5bb2cc9539df0a61185b74000cb5c97c8e20889000fed1202bedc3",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/lib/services/asr/dual_pass_result_picker.dart",
+      "target": "reference/flutter/lib/services/asr/dual_pass_result_picker.dart",
+      "sourceSha256": "e393f028009237d1a09a4c36fdd0772dfe9cbb4fbc3b48e71cd066b2dbee3da7",
+      "publishedSha256": "e393f028009237d1a09a4c36fdd0772dfe9cbb4fbc3b48e71cd066b2dbee3da7",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/lib/services/asr/live_session_controller.dart",
+      "target": "reference/flutter/lib/services/asr/live_session_controller.dart",
+      "sourceSha256": "68ebed711486eb6402d278ce05af12bc505b3ad820c5c8442ccc34b69e96a031",
+      "publishedSha256": "68ebed711486eb6402d278ce05af12bc505b3ad820c5c8442ccc34b69e96a031",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/lib/services/asr/live_transcript_window.dart",
+      "target": "reference/flutter/lib/services/asr/live_transcript_window.dart",
+      "sourceSha256": "b26ab16cb061f7312cb544fcfaddef613be0b822f68e1d93604b2dede9704b72",
+      "publishedSha256": "b26ab16cb061f7312cb544fcfaddef613be0b822f68e1d93604b2dede9704b72",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/lib/services/asr/mixed_language_asr_engine.dart",
+      "target": "reference/flutter/lib/services/asr/mixed_language_asr_engine.dart",
+      "sourceSha256": "d3377bc1a38792b48459ae38e2367c5096aee05a7849553272490d48fd31829f",
+      "publishedSha256": "d3377bc1a38792b48459ae38e2367c5096aee05a7849553272490d48fd31829f",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/lib/services/asr/mixed_language_terms.dart",
+      "target": "reference/flutter/lib/services/asr/mixed_language_terms.dart",
+      "sourceSha256": "381e093f49cc8e606a2f333ab7bb657c67981bc3a04e77da13b645e842dbb7a1",
+      "publishedSha256": "381e093f49cc8e606a2f333ab7bb657c67981bc3a04e77da13b645e842dbb7a1",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/lib/services/asr/mixed_language_text.dart",
+      "target": "reference/flutter/lib/services/asr/mixed_language_text.dart",
+      "sourceSha256": "068a433334bc4a262f2411e26298435bdc28b261716c17c4948eeb21a8b4f4bb",
+      "publishedSha256": "068a433334bc4a262f2411e26298435bdc28b261716c17c4948eeb21a8b4f4bb",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/lib/services/asr/model_manager.dart",
+      "target": "reference/flutter/lib/services/asr/model_manager.dart",
+      "sourceSha256": "a3d159d21bb5b4535acaeaa58b29720b93fe781089ffabe39ed8109d97107e66",
+      "publishedSha256": "a3d159d21bb5b4535acaeaa58b29720b93fe781089ffabe39ed8109d97107e66",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/lib/services/asr/session_store.dart",
+      "target": "reference/flutter/lib/services/asr/session_store.dart",
+      "sourceSha256": "c68852b8047f066f8572fb86cc90e376d0106b99dda931e9b534a6734f2b8be1",
+      "publishedSha256": "c68852b8047f066f8572fb86cc90e376d0106b99dda931e9b534a6734f2b8be1",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/lib/services/asr/session_title_inference.dart",
+      "target": "reference/flutter/lib/services/asr/session_title_inference.dart",
+      "sourceSha256": "0c260bfe78c17988f93ec02ecc05ca151e572e67546aaa5dc964235bdc20e3e8",
+      "publishedSha256": "0c260bfe78c17988f93ec02ecc05ca151e572e67546aaa5dc964235bdc20e3e8",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/lib/services/asr/sherpa_asr_engine.dart",
+      "target": "reference/flutter/lib/services/asr/sherpa_asr_engine.dart",
+      "sourceSha256": "04e744004d0508dff8793682b17c5a80ba7bc910d50aa5a60d694f72ddd13fcf",
+      "publishedSha256": "04e744004d0508dff8793682b17c5a80ba7bc910d50aa5a60d694f72ddd13fcf",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/lib/services/asr/sherpa_native_engine.dart",
+      "target": "reference/flutter/lib/services/asr/sherpa_native_engine.dart",
+      "sourceSha256": "ad9fbb8d86ef6cbc5ea6042b6d1aa35428448157fbbf3be58135920db2e48ce1",
+      "publishedSha256": "ad9fbb8d86ef6cbc5ea6042b6d1aa35428448157fbbf3be58135920db2e48ce1",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/lib/services/asr/sherpa_worker_engine.dart",
+      "target": "reference/flutter/lib/services/asr/sherpa_worker_engine.dart",
+      "sourceSha256": "9b826b46f44fe37fd0b1962060ce5d7bd9a80fcbd543517e29bfc2cb2b901ec5",
+      "publishedSha256": "9b826b46f44fe37fd0b1962060ce5d7bd9a80fcbd543517e29bfc2cb2b901ec5",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/lib/services/asr/speech_language_stabilizer.dart",
+      "target": "reference/flutter/lib/services/asr/speech_language_stabilizer.dart",
+      "sourceSha256": "67ec22d97a0766c5709dc3aaa4991c390ae0094ddc8cc6fee860b8b39b68d9f6",
+      "publishedSha256": "67ec22d97a0766c5709dc3aaa4991c390ae0094ddc8cc6fee860b8b39b68d9f6",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/lib/services/asr/start_capture.dart",
+      "target": "reference/flutter/lib/services/asr/start_capture.dart",
+      "sourceSha256": "a3596420bb9410c335858e7ccfea90da30da3965080ebc30fcf91f63b4bba2c4",
+      "publishedSha256": "a3596420bb9410c335858e7ccfea90da30da3965080ebc30fcf91f63b4bba2c4",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/lib/services/asr/streaming_hypothesis_tracker.dart",
+      "target": "reference/flutter/lib/services/asr/streaming_hypothesis_tracker.dart",
+      "sourceSha256": "78665a4d3e62f736f0ffe56f8056fbaf34b2563dde95b2b96a7935dd286a4a38",
+      "publishedSha256": "78665a4d3e62f736f0ffe56f8056fbaf34b2563dde95b2b96a7935dd286a4a38",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/lib/services/asr/transcript_refiner.dart",
+      "target": "reference/flutter/lib/services/asr/transcript_refiner.dart",
+      "sourceSha256": "6ad857a64a35bfeabd5cc8e24acbfbc0489b7a1b7e48d9921085ae3ee765ab57",
+      "publishedSha256": "6ad857a64a35bfeabd5cc8e24acbfbc0489b7a1b7e48d9921085ae3ee765ab57",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/lib/services/audio/record_audio_capture.dart",
+      "target": "reference/flutter/lib/services/audio/record_audio_capture.dart",
+      "sourceSha256": "b5c0ee112d87fd50f7ab6b8629b88d1fa80e780799a2c1722327ab46bce89a87",
+      "publishedSha256": "b5c0ee112d87fd50f7ab6b8629b88d1fa80e780799a2c1722327ab46bce89a87",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/lib/services/audio/speech_signal_enhancer.dart",
+      "target": "reference/flutter/lib/services/audio/speech_signal_enhancer.dart",
+      "sourceSha256": "55a7d1205f5b3a5215a29e81e1be25056508091649ef9773c5df399162bfb7d2",
+      "publishedSha256": "55a7d1205f5b3a5215a29e81e1be25056508091649ef9773c5df399162bfb7d2",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/lib/services/audio/stereo_pcm_decimator.dart",
+      "target": "reference/flutter/lib/services/audio/stereo_pcm_decimator.dart",
+      "sourceSha256": "3e75f7e534191e1843b7aa27245bdfbfb57637c35a8c67344f94b854a13cb03a",
+      "publishedSha256": "3e75f7e534191e1843b7aa27245bdfbfb57637c35a8c67344f94b854a13cb03a",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/lib/services/alert/alert_engine.dart",
+      "target": "reference/flutter/lib/services/alert/alert_engine.dart",
+      "sourceSha256": "e68681a8acc18574335fca1e6cc9b442345b165af854f70c5ba33f16e139c359",
+      "publishedSha256": "e68681a8acc18574335fca1e6cc9b442345b165af854f70c5ba33f16e139c359",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/lib/services/alert/question_context.dart",
+      "target": "reference/flutter/lib/services/alert/question_context.dart",
+      "sourceSha256": "28c0eccaed09317841b3bbd28e8e4adf476a4cfc187af3fe111cefbacad76c57",
+      "publishedSha256": "28c0eccaed09317841b3bbd28e8e4adf476a4cfc187af3fe111cefbacad76c57",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/lib/services/alert/system_alert_service.dart",
+      "target": "reference/flutter/lib/services/alert/system_alert_service.dart",
+      "sourceSha256": "852a61b94eb4a63b183d7057b454fa1e215e27484558e23afec55c6d3b3696aa",
+      "publishedSha256": "852a61b94eb4a63b183d7057b454fa1e215e27484558e23afec55c6d3b3696aa",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/lib/services/keywords/builtin_keyword_packs.dart",
+      "target": "reference/flutter/lib/services/keywords/builtin_keyword_packs.dart",
+      "sourceSha256": "e9d0028f10dc7369e1f283b547d2d224e34e716c69df3b448fd7d3dfd49926de",
+      "publishedSha256": "e9d0028f10dc7369e1f283b547d2d224e34e716c69df3b448fd7d3dfd49926de",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/lib/services/keywords/keyword_manager.dart",
+      "target": "reference/flutter/lib/services/keywords/keyword_manager.dart",
+      "sourceSha256": "798378e473e353e70e1c37b0739b4895755ac15d8ef9605c36f47c944cc850bd",
+      "publishedSha256": "798378e473e353e70e1c37b0739b4895755ac15d8ef9605c36f47c944cc850bd",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/lib/services/recording/classroom_recording.dart",
+      "target": "reference/flutter/lib/services/recording/classroom_recording.dart",
+      "sourceSha256": "16a32d8eda87ca8db6bc05f4dc2dc28d03d62d4f68dabcfa1b50e1b00279f4b6",
+      "publishedSha256": "16a32d8eda87ca8db6bc05f4dc2dc28d03d62d4f68dabcfa1b50e1b00279f4b6",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/lib/services/translation/inline_translations.dart",
+      "target": "reference/flutter/lib/services/translation/inline_translations.dart",
+      "sourceSha256": "5837e0ea7219a913a7a9812563b87ed59e1596242ba0b3487e95aa5f77b7c54d",
+      "publishedSha256": "5837e0ea7219a913a7a9812563b87ed59e1596242ba0b3487e95aa5f77b7c54d",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/lib/services/ai/ai_answer_service.dart",
+      "target": "reference/flutter/lib/services/ai/ai_answer_service.dart",
+      "sourceSha256": "60d4b353851821ce4253b861f2dafdef337c3b4b27b4a7cb943a8d1840e20494",
+      "publishedSha256": "60d4b353851821ce4253b861f2dafdef337c3b4b27b4a7cb943a8d1840e20494",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/lib/services/ai/ai_connection.dart",
+      "target": "reference/flutter/lib/services/ai/ai_connection.dart",
+      "sourceSha256": "77cead382814be8de9d595905d394c6082a30c449f0ad7b478144494cedd3d39",
+      "publishedSha256": "77cead382814be8de9d595905d394c6082a30c449f0ad7b478144494cedd3d39",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/lib/services/ai/ai_credential_store.dart",
+      "target": "reference/flutter/lib/services/ai/ai_credential_store.dart",
+      "sourceSha256": "96d4cc1b1bbef61fc06d62429831b31ce36138bc093c45c48151e57aed6db3f9",
+      "publishedSha256": "96d4cc1b1bbef61fc06d62429831b31ce36138bc093c45c48151e57aed6db3f9",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/lib/services/ai/ai_request_failure.dart",
+      "target": "reference/flutter/lib/services/ai/ai_request_failure.dart",
+      "sourceSha256": "cad1a43b8961a3d0133f287008cb45bda6394b85a13391d7cd31ee30dc382203",
+      "publishedSha256": "cad1a43b8961a3d0133f287008cb45bda6394b85a13391d7cd31ee30dc382203",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/lib/services/ai/class_summary.dart",
+      "target": "reference/flutter/lib/services/ai/class_summary.dart",
+      "sourceSha256": "81f11e8edee4e5d2a3a2a07bfc0e6b17d72e17cee9b273810934ef8cb6fdf6e0",
+      "publishedSha256": "81f11e8edee4e5d2a3a2a07bfc0e6b17d72e17cee9b273810934ef8cb6fdf6e0",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/lib/services/ai/doubao_web_session.dart",
+      "target": "reference/flutter/lib/services/ai/doubao_web_session.dart",
+      "sourceSha256": "3a47fe6fbf3feddae4efa2f56bbb5bae7598c89ea6d5119e93bd1f0616e4c27b",
+      "publishedSha256": "3a47fe6fbf3feddae4efa2f56bbb5bae7598c89ea6d5119e93bd1f0616e4c27b",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/lib/services/ai/hosted_ai_error.dart",
+      "target": "reference/flutter/lib/services/ai/hosted_ai_error.dart",
+      "sourceSha256": "40b7a9f4bbf8e081fe0ae6942864cb504a2f16cb12cdccb5742a567a9134b70a",
+      "publishedSha256": "40b7a9f4bbf8e081fe0ae6942864cb504a2f16cb12cdccb5742a567a9134b70a",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/lib/features/live/answer_card_layout.dart",
+      "target": "reference/flutter/lib/features/live/answer_card_layout.dart",
+      "sourceSha256": "fb0d2be0a83720597a153244978f2a93df7812f23822e5c973e7af1fe917fdab",
+      "publishedSha256": "fb0d2be0a83720597a153244978f2a93df7812f23822e5c973e7af1fe917fdab",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/lib/features/live/answer_copy_feedback.dart",
+      "target": "reference/flutter/lib/features/live/answer_copy_feedback.dart",
+      "sourceSha256": "224c3a77031f2f249eb4d08f0050ba460445638f1caa1eea937c4515c3744962",
+      "publishedSha256": "224c3a77031f2f249eb4d08f0050ba460445638f1caa1eea937c4515c3744962",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/lib/features/live/classroom_notes_split.dart",
+      "target": "reference/flutter/lib/features/live/classroom_notes_split.dart",
+      "sourceSha256": "42c810db9def84926ef79d85a3fc558199e75938c4c4c9280b4c15d7ee95105d",
+      "publishedSha256": "42c810db9def84926ef79d85a3fc558199e75938c4c4c9280b4c15d7ee95105d",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/lib/features/live/classroom_recording_widgets.dart",
+      "target": "reference/flutter/lib/features/live/classroom_recording_widgets.dart",
+      "sourceSha256": "187c7a18e9c19127080bbcde4efe552cb2b3edf488b6bcd8bad42040f628cb26",
+      "publishedSha256": "187c7a18e9c19127080bbcde4efe552cb2b3edf488b6bcd8bad42040f628cb26",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/lib/features/live/live_answer_presentation.dart",
+      "target": "reference/flutter/lib/features/live/live_answer_presentation.dart",
+      "sourceSha256": "e4f5f63b1e8dbe639c4c5ca5553e0d410a13c7595b67c6b6ab89f3691fa6fd5a",
+      "publishedSha256": "e4f5f63b1e8dbe639c4c5ca5553e0d410a13c7595b67c6b6ab89f3691fa6fd5a",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/lib/features/live/live_capture_screen.dart",
+      "target": "reference/flutter/lib/features/live/live_capture_screen.dart",
+      "sourceSha256": "889b996d8f50faf529388058f342715767ee2a13e4bd3e065f4f978076454575",
+      "publishedSha256": "889b996d8f50faf529388058f342715767ee2a13e4bd3e065f4f978076454575",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/lib/features/live/model_setup_screen.dart",
+      "target": "reference/flutter/lib/features/live/model_setup_screen.dart",
+      "sourceSha256": "10ca582fa2567abc359f675a81f6cffd26395c3bfc189e7ec766f891040a06cb",
+      "publishedSha256": "10ca582fa2567abc359f675a81f6cffd26395c3bfc189e7ec766f891040a06cb",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/lib/features/live/translated_transcript_text.dart",
+      "target": "reference/flutter/lib/features/live/translated_transcript_text.dart",
+      "sourceSha256": "1ad2d6214ce13122985525a2e1cdc306350c5b7500eb3272e9ed559cd6de0e5c",
+      "publishedSha256": "1ad2d6214ce13122985525a2e1cdc306350c5b7500eb3272e9ed559cd6de0e5c",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/android/app/src/main/kotlin/com/classmate/classmate/MainActivity.kt",
+      "target": "reference/android/MainActivity.kt",
+      "sourceSha256": "e1685238814b285c661ee53e9af599f5519b63f920d5ffb94217907de711dbd0",
+      "publishedSha256": "e1685238814b285c661ee53e9af599f5519b63f920d5ffb94217907de711dbd0",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/android/app/src/main/kotlin/com/classmate/classmate/AsrModelAssets.kt",
+      "target": "reference/android/AsrModelAssets.kt",
+      "sourceSha256": "ba3726304d77401c7fb97d3d4236f75a9f4ada51dbd9b0b4ca57b5a75b294cfc",
+      "publishedSha256": "ba3726304d77401c7fb97d3d4236f75a9f4ada51dbd9b0b4ca57b5a75b294cfc",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/android/app/src/main/kotlin/com/classmate/classmate/RecordingForegroundService.kt",
+      "target": "reference/android/RecordingForegroundService.kt",
+      "sourceSha256": "70f99350eb3fe2a96a80b745e5b006da9e9ecc8fbc43e09d31bdd74eb314fe32",
+      "publishedSha256": "70f99350eb3fe2a96a80b745e5b006da9e9ecc8fbc43e09d31bdd74eb314fe32",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/android/app/src/main/kotlin/com/classmate/classmate/ClassroomRecordingBridge.kt",
+      "target": "reference/android/ClassroomRecordingBridge.kt",
+      "sourceSha256": "c3f0924161f6bc9148cf68622a06ae0f1332269a0627190a84894afc1380672e",
+      "publishedSha256": "c3f0924161f6bc9148cf68622a06ae0f1332269a0627190a84894afc1380672e",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/assets/sherpa/auto/README.md",
+      "target": "models/README.md",
+      "sourceSha256": "e7bdc20cfd901ac1c97c415eee672383e1797dffdd08ca62394edfaf0156c90c",
+      "publishedSha256": "e7bdc20cfd901ac1c97c415eee672383e1797dffdd08ca62394edfaf0156c90c",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/assets/sherpa/auto/LICENSE-2.0.txt",
+      "target": "models/LICENSE-2.0.txt",
+      "sourceSha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+      "publishedSha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+      "adapted": false
+    },
+    {
+      "source": "source/main/outputs/iko-public-beta/assets/sherpa/auto/SENSEVOICE.md",
+      "target": "models/SENSEVOICE.md",
+      "sourceSha256": "b7240b754a467d0a91bfbb20ba5aca7f5b85766d731fd98bc56adbc58d78ae3e",
+      "publishedSha256": "b7240b754a467d0a91bfbb20ba5aca7f5b85766d731fd98bc56adbc58d78ae3e",
+      "adapted": false
+    }
+  ],
+  "excludedFiles": {
+    "reference/flutter/lib/services/alert/name_matcher.dart": "Sentinel research attribution requires further provenance confirmation"
+  },
+  "generatedFiles": [
+    {
+      "target": ".gitignore",
+      "sha256": "a8a1ac48c52460c848ecb12ed507fe6212b8fecb149c17c7eb2f037ebafd40c8"
+    },
+    {
+      "target": "CONTRIBUTING.md",
+      "sha256": "70229ef64c017ab35611eaabf4ff90af9dbbdbe3bdc4ee6cbffddd8477b979e1"
+    },
+    {
+      "target": "LICENSE",
+      "sha256": "0ce17ff75376a5e69f909e91b4b145c36ce3848e95156d764a5a37a0d4a6ffdc"
+    },
+    {
+      "target": "pubspec.lock",
+      "sha256": "944235ef54044f303f8fe370feca0e2b0cd34d91f28d4b56505bffab17418eb7"
+    },
+    {
+      "target": "pubspec.yaml",
+      "sha256": "352cf4098a846213b9e5bff3edfa4dd39e53949ad94658e0662ab4be26fb0830"
+    },
+    {
+      "target": "README.md",
+      "sha256": "52185ba711f229f21745c717d09cff1a53efdce31d4fd1813a4fc9f083fb090e"
+    },
+    {
+      "target": "SECURITY.md",
+      "sha256": "e00ee6595322461749c1030aa9697f40e34e9826480c2c34927907a7f77f3b36"
+    },
+    {
+      "target": "THIRD-PARTY.md",
+      "sha256": "eae8d94c6057cd88e51fb09ccb08b4b0352cdf1e74a835d3edb39a94cdb3c22a"
+    },
+    {
+      "target": "docs/ARCHITECTURE.md",
+      "sha256": "a52b5d8fa8683875cb929491c48f68bc0d1f4c589f05b6f9ea3064c8c4b6dc65"
+    },
+    {
+      "target": "example/main.dart",
+      "sha256": "109c0d3fecfca5a12cf4b5006b69ddb42fbc3758f123dda3724ddb0f1f6d23e7"
+    },
+    {
+      "target": "tool/models.py",
+      "sha256": "247b5d83167980b4357f50b2fe8a8237b5cbe8913b3dff6578986176d9b714b9"
+    }
+  ]
+}
